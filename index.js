@@ -2,7 +2,7 @@ const discord = require('discord.js');
 const client = new Discord.client();
 
 
-client.login(process.env.TOKEN)
+client.login(process.env.MTA4NjgxNDQxMzk5MTk4MTE1OA.GF0U1o.uzEaxiu27Iu0u03JB41zPEspWBcB4NEACE0Zvs)
 
 
 client.on('message', async (message) => {
